@@ -1,0 +1,9 @@
+Student name: Muhamed
+Student surname: Begic
+<-----GRADES----->
+Calculus grade: 6
+Programming grade: 6
+Physics grade: 8
+English language grade: 9
+German language grade: 8
+Average grade: 7.4
